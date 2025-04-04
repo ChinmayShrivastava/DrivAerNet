@@ -1,0 +1,11 @@
+*.pkl
+*.db
+*.csv
+*.json
+*.yaml
+*.yml
+*.txt
+*.vtk
+
+venv/
+__pycache__/
